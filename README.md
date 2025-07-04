@@ -13,7 +13,7 @@ A React app that allows employees to validate and update their information throu
 
 - React 18
 - Vite
-- TypeScript (optional)
+- TypeScript
 
 ## Getting Started
 
